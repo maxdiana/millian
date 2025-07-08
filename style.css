@@ -1,0 +1,46 @@
+
+body {
+  background-color: milk;
+}
+hr {
+  background-color: blue;
+  border-style: dotted;
+  border-top-style: none;
+  height: 0px;
+  width: 50px
+}
+
+img {height: 70px}
+h3 {color: #2E8B57}
+h2 {color: #2E8B57}
+h1 {color: #2E8B57}
+.federalpolyoko {background-color: white;}
+#edu {text-align: center;}
+.maxi {background-color: blue;
+height: 100px;
+}
+img:hover {background-color: red;}
+* {strong
+font-style: italic;
+font-family: sans-serif;
+font-size: 16px;
+}
+
+.cisco {background-color: yellow;}
+body {background-image: url(C:\Users\HomePC\Desktop\HTML\test 001\cropped_circle_image.png);
+background-position: right-top;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+table, th, td {border:2px;
+border-style:solid;
+color: black;
+}
+table{border-bottom: 100px;
+border-top: 100px;
+border-collapse: collapse;
+}
+tr:nth-of-type(odd){background-color: light green;}
+td:hover{color: gray;}
+
+td{text-align: center;}
